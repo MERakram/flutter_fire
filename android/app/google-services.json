@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781236453675",
+    "project_id": "flutterfire-gama",
+    "storage_bucket": "flutterfire-gama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781236453675:android:1567c59f86367e8147456e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781236453675-uqg7huhiervco4tqv4lfolaqoadd0iv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaRsnHVgoiNKf4LjrbgWBqS2Epgii2vso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781236453675-uqg7huhiervco4tqv4lfolaqoadd0iv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
